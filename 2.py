@@ -1,6 +1,6 @@
 #-------Импортируем необходимые классы--------#
 from PyQt6.QtWidgets import QApplication, QListWidget, QMainWindow, QVBoxLayout, QPushButton, QWidget, QLineEdit
-
+# rfseklfmdkls
 #-------Создаем класс MainWindow, наследующий от QMainWindow--------#
 class MainWindow(QMainWindow):
     def __init__(self):
